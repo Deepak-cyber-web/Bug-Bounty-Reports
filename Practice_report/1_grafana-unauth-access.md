@@ -18,7 +18,7 @@ curl -i "https://grafana.cncmonitor.com.br/api/search?type=dash-db"
 
 ## Proof of Concept
 The following is a snippet of the response received from the vulnerable endpoint, which confirms the exposure of dashboard metadata:
-<img width="1920" height="1080" alt="Screenshot From 2026-05-26 05-22-02" src="" />
+<img width="1920" height="1080" alt="Screenshot From 2026-05-26 05-22-02" src="https://github.com/Deepak-cyber-web/Bug-Bounty-Reports/blob/main/Practice_report/evidence/Screenshot%20From%202026-10-06%2007-44-03.png" />
 
 ## Impact
 An unauthenticated attacker can access critical operational and infrastructure information. This exposure reveals a significant amount of sensitive data, including:
