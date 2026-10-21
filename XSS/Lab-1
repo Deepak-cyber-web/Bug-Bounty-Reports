@@ -37,4 +37,3 @@ An attacker can perform the following actions using this vulnerability:
 3. **Content Security Policy (CSP):** Implement a strict CSP (e.g., `script-src 'self'`) to block inline script execution.
 4. **Secure Cookies:** Ensure all session cookies use the `HttpOnly` and `Secure` flags.
 
-
