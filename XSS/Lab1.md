@@ -20,8 +20,9 @@ https://kzlabs.store/subdomains/tutorialrepublic/?q=
 `<script>alert(1)</script>`
 
 # Proof of Concept
-SS1,2
+<img width="960" height="510" alt="1" src="https://github.com/user-attachments/assets/52bffd73-744e-423b-b031-291aa3a110e8" />
 
+<img width="960" height="510" alt="2" src="https://github.com/user-attachments/assets/191f7cba-e815-488f-9bd6-b8e5165a6b58" />
 
 # Impact
 An attacker can perform the following actions using this vulnerability:
