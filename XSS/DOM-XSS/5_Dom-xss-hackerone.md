@@ -1,4 +1,4 @@
-Lab name : DOM XSS -  IMDb: Ratings, Reviews, and Where to Watch the Best Movies & TV Shows
+Lab name : DOM XSS -  Hackerone
 
 # Title
 DOM-based Cross-Site Scripting (XSS) via `lever-` URL Parameter
