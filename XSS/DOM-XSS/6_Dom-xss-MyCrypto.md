@@ -49,6 +49,9 @@ document.getElementById('conn-strip').innerHTML =
 ```
 
 # Proof of Concept
+<img width="1920" height="1040" alt="3" src="https://github.com/user-attachments/assets/c33a0a50-3258-4ebd-b94b-26809ea4913e" />
+<img width="1917" height="621" alt="4" src="https://github.com/user-attachments/assets/a15f02f6-a98c-4783-b856-0d109f6e7da2" />
+<img width="1920" height="1032" alt="5" src="https://github.com/user-attachments/assets/df780417-53e6-42a6-9821-a2355d888e3f" />
 
 
 # Impact
