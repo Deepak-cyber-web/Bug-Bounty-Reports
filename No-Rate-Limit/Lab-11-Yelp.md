@@ -22,6 +22,9 @@ Parameters: csrftok, return_url, email`
 
 
 # Proof of Concept
+<img width="1920" height="1031" alt="a1" src="https://github.com/user-attachments/assets/4664a662-7cd4-479d-b6c3-4da474a4dff3" />
+<img width="1916" height="1032" alt="a2" src="https://github.com/user-attachments/assets/17d42cc6-7d57-421d-bd2a-a73604aa9ec6" />
+<img width="1920" height="1045" alt="a3" src="https://github.com/user-attachments/assets/400607c5-de97-4e18-b65e-778717f43f0b" />
 
 # Impact
 - An attacker can flood any Yelp business owner’s inbox with unlimited confirmation emails, causing email bombing and disrupting their business account access.
