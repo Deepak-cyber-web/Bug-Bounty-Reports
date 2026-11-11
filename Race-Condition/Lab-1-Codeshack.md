@@ -22,6 +22,7 @@ POST `https://counter.pwnedbox.site/resend.php`
 <img width="1920" height="1040" alt="a1" src="https://github.com/user-attachments/assets/03c33c05-7594-46d9-a14d-5455477b5573" />
 <img width="1920" height="1039" alt="a2" src="https://github.com/user-attachments/assets/e770748e-9d99-49cd-8974-594b2b68da78" />
 <img width="1920" height="1040" alt="a3" src="https://github.com/user-attachments/assets/9ba61477-de6e-4f7e-acd1-1bfaa7d27c05" />
+<img width="1920" height="1040" alt="a4" src="https://github.com/user-attachments/assets/526aef47-7c5f-4f8a-9e63-9e1fadf543f6" />
 
 # Impact
 An attacker can bypass the OTP resend limit to flood a victim’s inbox with excessive verification emails, causing email fatigue and potential denial-of-service on the target email account.
